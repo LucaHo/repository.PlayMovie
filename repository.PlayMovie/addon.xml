@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.PlayMovie" name="PlayMovie Repository" version="1.0.1" provider-name="PlayMovie Ltd.">
 	<extension point="xbmc.addon.repository" name="PlayMovie Ltd.">
-		<info compressed="true">https://raw.githubusercontent.com/Zwergkaninchen/Zora/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Zwergkaninchen/Zora/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Zwergkaninchen/Zora/master/</datadir>
+		<info compressed="true">https://raw.githubusercontent.com/LucaHo/repository.PlayMovie/main/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/LucaHo/repository.PlayMovie/main/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/LucaHo/repository.PlayMovie/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Official PlayMovie Repository</summary>

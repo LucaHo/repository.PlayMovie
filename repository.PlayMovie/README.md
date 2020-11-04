@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: repository.PlayMovie/icon.png
+[logo]: /icon.png
 
 ### PlayMovie Repository
 

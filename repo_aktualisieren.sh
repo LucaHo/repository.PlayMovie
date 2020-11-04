@@ -50,3 +50,4 @@ for name in `find . -maxdepth 1 -type d |grep -v \.git|grep -v addons|egrep -v "
  done
  echo "</addons>" >> $REPO/addons.xml
  md5sum  $REPO/addons.xml > $REPO/addons.xml.md5
+ 

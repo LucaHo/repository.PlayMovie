@@ -2,6 +2,6 @@
 
 [logo]: icon.png
 
-### PlayMovie Repository
+### plugin.video.PlayMovie.de
 
 ### PlayMovie Ltd.
